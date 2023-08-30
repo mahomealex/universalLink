@@ -1,0 +1,11 @@
+{ "applinks":
+      { "apps": [],
+        "details": [
+             { "appID": "TeamId.com.ss.iphone.ugc.Aweme",
+                "paths": [ "*" ] },
+             { "appID": "TeamId.com.MyCompany.MyAppName02",
+               "paths": [ "*" ]
+             }
+          ]
+       }
+}
